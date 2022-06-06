@@ -1,0 +1,25 @@
+.PokeWrap {
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 15px;
+    margin: 15px;
+    background-color: #eaeaea;
+    border: solid #2045ab;
+    border-radius: 30px;
+    width: 300px;
+    height: 300px;
+}
+.PokeTitle {
+    color: #2045ab;
+    font-size: 22px;
+    font-weight: normal;
+    padding-left: 15px;
+}
+.PokeLabel {
+    color: #041133;
+    font-size: 20px;
+    font-weight: normal;
+    padding-left: 15px;
+    margin-top: 10px;
+}

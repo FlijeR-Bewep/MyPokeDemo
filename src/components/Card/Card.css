@@ -1,0 +1,25 @@
+.CardWrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 15px;
+    background-color: #d5d5e1;
+    border-radius: 30px;
+    width: 300px;
+    height: 200px;
+}
+.CardLabel {
+    color: #3d66d5;
+    font-size: 22px;
+    font-weight: normal;
+    padding-left: 15px;
+}
+.CardTitle {
+    color: '#000000';
+    font-size: 22px;
+    font-weight: normal;
+    align-self: center;
+    height: 25px;
+    display: flex;
+    align-items: center;
+}

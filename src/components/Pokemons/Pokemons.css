@@ -1,0 +1,8 @@
+.CardsContainer {
+    display: grid;
+    gap: 24px;
+    grid-template-rows: 250px 250px;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    justify-items: center;
+}
